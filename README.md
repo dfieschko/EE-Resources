@@ -137,3 +137,11 @@ A list of resources I've found useful for electrical engineering education. Pret
 ----
 ## Career & Life Advice
 - [What happens to people without any retirement savings?](https://money.stackexchange.com/questions/79065/what-happens-to-people-without-any-retirement-savings/79082#79082)
+
+----
+
+# Mechanical Engineering
+## Fasteners & Fastening
+- [Fastening: The Truth About TORQUE and TENSION](https://www.assemblymag.com/articles/83789-fastening-the-truth-about-torque-and-tension)
+- [Fundamentals of Torque-Tension and Coefficient of Friction Testing](https://www.pcb.com/Contentstore/mktgcontent/WhitePapers/WPL_21_Fund_Torque-Tension.pdf)
+- [Specification for Structural Joints Using High-Strength Bolts](http://www.boltcouncil.org/files/2014RCSCSpecification-withErrata.pdf)
