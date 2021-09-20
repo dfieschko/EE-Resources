@@ -3,7 +3,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 
 ----
 # Electrical Engineering Topics
-## Controls:
+## Controls
 ### [Brian Douglas](https://www.youtube.com/user/ControlLectures/featured)   
 #### This guy has some incredible videos on introductory topics in control theory. I feel like I could have replaced at least two of my Sophomore and Junior courses just with his YouTube channel. He explains topics in a direct and easy to understand way, with minimal fluff. He's so good that he deserves his own section.
 - [Classical Control Theory](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk) - Basically a compilation of all of his Controls lectures. 47 videos.
@@ -15,7 +15,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [Lead/Lag Compensators](https://www.youtube.com/playlist?list=PLUMWjy5jgHK0WzmjRViTYtlSVSE_zP6yR)
 - [Discrete Control](https://www.youtube.com/playlist?list=PLUMWjy5jgHK0MLv6Ksf-NHi7Ur8NRNU4Z)
 
-## Digital Signal Processing:
+## Digital Signal Processing
 - [The Scientist & Engineer's Guide to Digital Signal Processing, 1999](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html) - An entire textbook, available free online.
 - [Digital Signal Processing subreddit](https://old.reddit.com/r/DSP/) - A friendly community for discussing digital signal processing.
 
@@ -79,9 +79,9 @@ A list of resources I've found useful for electrical engineering education. Pret
 
 -----
 
-# Computer Science & Software Engineering:
+# Computer Science & Software Engineering
 
-## General Programming:
+## General Programming
 
 ### Becoming a Better Developer
 - [Clean Code - Uncle Bob](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) - Very long, but well worth your time!
@@ -98,7 +98,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 ### Fun Stuff
 - [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when/blob/master/README.rst)
 
-## Embedded Programming:
+## Embedded Programming
 
 ### General Resources
 - [Embedded Artistry - For Beginners](https://embeddedartistry.com/beginners) - This webpage is a valuable repository of embedded programming resources in and of itself!
@@ -130,7 +130,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [stm32plus : The C++ library for the STM32 F0, F100, F103, F107 and F4 microcontrollers](https://github.com/andysworkshop/stm32plus)
 
 ----
-## Engineering Communication & Education:
+## Engineering Communication & Education
 - [Public Speaking - Mark Browne](https://www.embeddedrelated.com/showarticle/1251.php)
 - [Tips for Academic Writing and Other Formal Writing](https://thereadywriters.com/tips-for-academic-writing-and-other-formal-writing/)
 
