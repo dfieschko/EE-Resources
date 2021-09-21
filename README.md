@@ -36,6 +36,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [/r/PrintedCircuitBoard Wiki](https://old.reddit.com/r/PrintedCircuitBoard/wiki/index)
 - [PCB Design Tutorial by David Jones](http://alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf)
 - [Rules and guidelines for drawing good schematics](https://electronics.stackexchange.com/questions/28251/rules-and-guidelines-for-drawing-good-schematics/28255#28255)
+- [The Art of Electronics](https://www.pearl-hifi.com/06_Lit_Archive/02_PEARL_Arch/Vol_16/Sec_51/4420_The_Art_of_Electronics.pdf)
 
 ### Electromagnetic Compatibility (EMC)
 - [Decoupling Caps, Signal Integrity, and Power— Oh My!](https://intentionallogic.com/2018/02/08/decoupling-caps-signal-integrity-and-power-oh-my/)
@@ -90,6 +91,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [All C++20 core language features with examples](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
 - [Common Weakness Enumeration](https://cwe.mitre.org/index.html) - A community-developed list of software and hardware weakness types.
 - [Questions to Ask: Software Architecture, Design, And Coding](https://covemountainsoftware.com/2017/03/09/questions-to-ask-software-architecture-design-and-coding/)
+- [The C Programming Language](http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf)
 
 ### Development Tools
 - [Godbolt Compiler Explorer](https://godbolt.org/) - Compiles your C-code into assembly, with your choice of compiler.
