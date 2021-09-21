@@ -69,6 +69,10 @@ A list of resources I've found useful for electrical engineering education. Pret
 ### PCB Design Tools
 - [KiCad EDA - Schematic Capture & PCB Design Software](https://www.kicad.org/)
 - [Altium Designer add-ons (repo)](https://github.com/Altium-Designer-addons/scripts-libraries)
+- [Trace Resistance Calculator](https://www.allaboutcircuits.com/tools/trace-resistance-calculator/)
+- [Via Resistance Calculator](https://circuitcalculator.com/wordpress/2006/03/12/pcb-via-calculator/)
+- [IPC-2221 Trace Width Calculator](https://www.4pcb.com/trace-width-calculator.html)
+- [IPC-2221/IPC9592 Trace Spacing Calculator](https://www.smps.us/pcbtracespacing.html)
 
 ### PCBA Rework/Repair
 - [A comprehensive guide to jumper wires](https://www.circuitrework.com/guides/6-1.html)
@@ -115,7 +119,7 @@ A list of resources I've found useful for electrical engineering education. Pret
   
 ### Video Guides
 - [Gene Schroeder](https://www.youtube.com/channel/UCKSz4JxZJEK7zxn0lQxDc7g)
-  - [I2C: Theory and Practie on Bare Metal STM32](https://www.youtube.com/playlist?list=PL4cGeWgaBTe1I_AfY4wk0SbIvh5tKWQME)
+  - [I2C: Theory and Practice on Bare Metal STM32](https://www.youtube.com/playlist?list=PL4cGeWgaBTe1I_AfY4wk0SbIvh5tKWQME)
   - [Bare Metal Embedded Software Development: Theory and Practice Using STM32](https://www.youtube.com/playlist?list=PL4cGeWgaBTe155QQSQ72DksLIjBn5Jn2Z)
 - [Fastbit Embedded Brain Academy](https://www.youtube.com/channel/UCa1REBV9hyrzGp2mjJCagBg/playlists)
   - [Controller Area Network (CAN) Programming Tutorial Step by Step](https://www.youtube.com/playlist?list=PLERTijJOmYrApVZqiI6gtA8hr1_6QS-cs)
