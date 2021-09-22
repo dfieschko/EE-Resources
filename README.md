@@ -111,6 +111,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [Introduction to Microcontrollers - Beginnings](https://www.embeddedrelated.com/showarticle/453.php)
 - [EmbeTronicX](https://embetronicx.com/) - A wide selection of embedded programming tutorials.
 - [A ‘C’ Test: The 0x10 Best Questions for Would-be Embedded Programmers](https://rmbconsulting.us/publications/a-c-test-the-0x10-best-questions-for-would-be-embedded-programmers/)
+- [So You Want to Build An Embedded Linux System??](https://jaycarlson.net/embedded-linux/) - a fantastic guide; give it a read even if you're not planning on using embedded Linux anytime soon.
 
 
 ### Articles
