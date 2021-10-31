@@ -136,6 +136,11 @@ A list of resources I've found useful for electrical engineering education. Pret
 - ["“Hey C, This Is What Performance Looks like"](https://www.youtube.com/watch?v=CNw6Cz8Cb68) - How compile-time programming in C++ gives you expressive code that can't be made in C.
 - [stm32plus : The C++ library for the STM32 F0, F100, F103, F107 and F4 microcontrollers](https://github.com/andysworkshop/stm32plus)
 
+### Embedded C Libraries
+- [Embedded Artistry](https://github.com/embeddedartistry)
+  - [libc - Embedded Artistry's libc is a stripped-down C standard library implementation targeted for microcontroller-based embedded systems.](https://github.com/embeddedartistry/libc)
+  - [libmemory - Embedded Artistry's libmemory is a memory management library for embedded systems. If you have a bare metal system and want to use malloc(), this library is for you!](https://github.com/embeddedartistry/libmemory)
+
 ----
 ## Engineering Communication & Education
 - [Public Speaking - Mark Browne](https://www.embeddedrelated.com/showarticle/1251.php)
