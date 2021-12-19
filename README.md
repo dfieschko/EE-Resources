@@ -19,6 +19,9 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [The Scientist & Engineer's Guide to Digital Signal Processing, 1999](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html) - An entire textbook, available free online.
 - [Digital Signal Processing subreddit](https://old.reddit.com/r/DSP/) - A friendly community for discussing digital signal processing.
 
+## Miscellaneous Info
+- [Common misconceptions on the radiation hardness of integrated circuits](https://www.linkedin.com/pulse/common-misconceptions-radiation-hardness-integrated-circuits-shunkov/)
+
 ----
 
 # Hardware Design
