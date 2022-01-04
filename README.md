@@ -151,6 +151,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 ## Engineering Communication & Education
 - [Public Speaking - Mark Browne](https://www.embeddedrelated.com/showarticle/1251.php)
 - [Tips for Academic Writing and Other Formal Writing](https://thereadywriters.com/tips-for-academic-writing-and-other-formal-writing/)
+- [Considerations for engineering leaders creating an onboarding strategy](https://www.pluralsight.com/blog/teams/considerations-for-engineering-leaders-creating-an-onboarding-plan-)
 
 ----
 ## Career & Life Advice
