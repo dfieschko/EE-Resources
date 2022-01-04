@@ -144,6 +144,9 @@ A list of resources I've found useful for electrical engineering education. Pret
   - [libc - Embedded Artistry's libc is a stripped-down C standard library implementation targeted for microcontroller-based embedded systems.](https://github.com/embeddedartistry/libc)
   - [libmemory - Embedded Artistry's libmemory is a memory management library for embedded systems. If you have a bare metal system and want to use malloc(), this library is for you!](https://github.com/embeddedartistry/libmemory)
 
+### Miscellaneous
+- [Quantum Computing for Computer Scientists (Video)](https://www.youtube.com/watch?v=F_Riqjdh2oM)
+
 ----
 ## Engineering Communication & Education
 - [Public Speaking - Mark Browne](https://www.embeddedrelated.com/showarticle/1251.php)
