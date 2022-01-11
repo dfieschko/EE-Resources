@@ -63,6 +63,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [Ceramic caps vs electrolytic. What are the tangible differences in use?](https://electronics.stackexchange.com/questions/232631/ceramic-caps-vs-electrolytic-what-are-the-tangible-differences-in-use/232663#232663)
 - [Why is there so much fear surrounding LiPo batteries?](https://electronics.stackexchange.com/questions/230155/why-is-there-so-much-fear-surrounding-lipo-batteries/230164#230164)
 - [Choosing a power supply](https://electronics.stackexchange.com/questions/34745/choosing-power-supply-how-to-get-the-voltage-and-current-ratings/34746#34746)
+- [Electrolytic Capacitor Application Guide](https://www.cde.com/resources/technical-papers/AEappGuide.pdf)
   
 ### Mechanical Aspects of PCB Design
 - [The Essential Guide to Conformal Coating](https://www.techspray.com/the-essential-guide-to-conformal-coating)
