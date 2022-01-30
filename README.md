@@ -14,11 +14,9 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [PID Control](https://www.youtube.com/playlist?list=PLUMWjy5jgHK20UW0yM22HYEUTMJfla7Mb)
 - [Lead/Lag Compensators](https://www.youtube.com/playlist?list=PLUMWjy5jgHK0WzmjRViTYtlSVSE_zP6yR)
 - [Discrete Control](https://www.youtube.com/playlist?list=PLUMWjy5jgHK0MLv6Ksf-NHi7Ur8NRNU4Z)
-
 ## Digital Signal Processing
 - [The Scientist & Engineer's Guide to Digital Signal Processing, 1999](https://www.analog.com/en/education/education-library/scientist_engineers_guide.html) - An entire textbook, available free online.
 - [Digital Signal Processing subreddit](https://old.reddit.com/r/DSP/) - A friendly community for discussing digital signal processing.
-
 ## Miscellaneous Info
 - [Common misconceptions on the radiation hardness of integrated circuits](https://www.linkedin.com/pulse/common-misconceptions-radiation-hardness-integrated-circuits-shunkov/)
 
@@ -29,7 +27,11 @@ A list of resources I've found useful for electrical engineering education. Pret
 ## Videos
 - [Low Cost Reverse Polarity and Over Current Protection](https://www.youtube.com/watch?v=QZ0WXQWND-I)
 - [High Speed and RF Design Considerations](https://www.youtube.com/watch?v=6jrVZu7eqiw)
-
+### MicroType Engineering
+#### EMC For Everyone
+1. [Introduction](https://www.youtube.com/watch?v=-GplR2r371Q)
+2. [Does Frequency Even Matter?](https://www.youtube.com/watch?v=-I3pogkW_QE&t=45s)
+3. [Passing Conducted Emissions With a Buck Regulator](https://www.youtube.com/watch?v=dfBAtikYwY0)
 ## PCB Design Resources
 ### General Design
 - [The Hitchhiker's Guide to PCB Design](https://resources.ema-eda.com/i/1008704-the-hitchhikers-guide-to-pcb-design/)
