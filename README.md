@@ -160,6 +160,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 ----
 ## Career & Life Advice
 - [What happens to people without any retirement savings?](https://money.stackexchange.com/questions/79065/what-happens-to-people-without-any-retirement-savings/79082#79082)
+- [Bret Devereaux's tips & tricks for teaching](https://twitter.com/BretDevereaux/status/1504984212931289092)
 
 ----
 
