@@ -150,6 +150,9 @@ A list of resources I've found useful for electrical engineering education. Pret
 
 ### Miscellaneous
 - [Quantum Computing for Computer Scientists (Video)](https://www.youtube.com/watch?v=F_Riqjdh2oM)
+- Approximating sines and cosines:
+   - [Embedded Muse 456](http://www.ganssle.com/tem/tem456.html#article2) - see 'Math Approximations'
+   - [Embedded Muse 457](http://www.ganssle.com/tem/tem457.html#article4) - see 'Sine and Cosine'
 
 ----
 ## Engineering Communication & Education
