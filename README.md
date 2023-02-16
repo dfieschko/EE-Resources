@@ -19,6 +19,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [Digital Signal Processing subreddit](https://old.reddit.com/r/DSP/) - A friendly community for discussing digital signal processing.
 ## Miscellaneous Info
 - [Common misconceptions on the radiation hardness of integrated circuits](https://www.linkedin.com/pulse/common-misconceptions-radiation-hardness-integrated-circuits-shunkov/)
+- [Cancel PWM DAC ripple with analog subtraction—revisited](https://www.edn.com/cancel-pwm-dac-ripple-with-analog-subtraction-revisited/)
 
 ----
 
