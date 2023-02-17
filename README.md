@@ -20,6 +20,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 ## Miscellaneous Info
 - [Common misconceptions on the radiation hardness of integrated circuits](https://www.linkedin.com/pulse/common-misconceptions-radiation-hardness-integrated-circuits-shunkov/)
 - [Cancel PWM DAC ripple with analog subtraction—revisited](https://www.edn.com/cancel-pwm-dac-ripple-with-analog-subtraction-revisited/)
+- [Isolated Bias Power Supply Architecture and Topology Trade-offs for HEV/EVs](https://training.ti.com/sites/default/files/docs/isolated_bias_power_supply_architecture_topology_tradeoffs_for_hevevs.pdf)
 
 ----
 
