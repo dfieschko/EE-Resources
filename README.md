@@ -83,6 +83,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [Via Resistance Calculator](https://circuitcalculator.com/wordpress/2006/03/12/pcb-via-calculator/)
 - [IPC-2221 Trace Width Calculator](https://www.4pcb.com/trace-width-calculator.html)
 - [IPC-2221/IPC9592 Trace Spacing Calculator](https://www.smps.us/pcbtracespacing.html)
+- [PCB Panelizer Visualization Tool](https://bayareacircuits.com/pcb-panelizer-tool/)
 
 ### PCBA Rework/Repair
 - [A comprehensive guide to jumper wires](https://www.circuitrework.com/guides/6-1.html)
