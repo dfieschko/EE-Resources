@@ -70,6 +70,9 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [Electrolytic Capacitor Application Guide](https://www.cde.com/resources/technical-papers/AEappGuide.pdf)
 - [How to select input capacitors for a buck converter](https://www.ti.com/lit/an/slyt670/slyt670.pdf)
   
+### Thermals
+- [Hot, Cold, and Broken: Thermal Design Techniques](https://www.edn.com/hot-cold-and-broken-thermal-design-techniques/)
+  
 ### Mechanical Aspects of PCB Design
 - [The Essential Guide to Conformal Coating](https://www.techspray.com/the-essential-guide-to-conformal-coating)
   
