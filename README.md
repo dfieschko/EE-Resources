@@ -133,6 +133,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [Jaywalking Around the Compiler](https://www.embeddedrelated.com/showarticle/1310.php)
 - [How to make Toast](https://www.cs.brandeis.edu/~hornby/amuse/vs_toast.txt) - an amusing little story
 - [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
+- [Great Watchdog Timers For Embedded Systems, by Jack Ganssle](http://www.ganssle.com/watchdogs.htm)
   
 ### Video Guides
 - [Gene Schroeder](https://www.youtube.com/channel/UCKSz4JxZJEK7zxn0lQxDc7g)
