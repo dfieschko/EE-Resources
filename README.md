@@ -30,10 +30,11 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [Low Cost Reverse Polarity and Over Current Protection](https://www.youtube.com/watch?v=QZ0WXQWND-I)
 - [High Speed and RF Design Considerations](https://www.youtube.com/watch?v=6jrVZu7eqiw)
 ### MicroType Engineering
-#### EMC For Everyone
-1. [Introduction](https://www.youtube.com/watch?v=-GplR2r371Q)
-2. [Does Frequency Even Matter?](https://www.youtube.com/watch?v=-I3pogkW_QE&t=45s)
-3. [Passing Conducted Emissions With a Buck Regulator](https://www.youtube.com/watch?v=dfBAtikYwY0)
+- EMC For Everyone
+   1. [Introduction](https://www.youtube.com/watch?v=-GplR2r371Q)
+   2. [Does Frequency Even Matter?](https://www.youtube.com/watch?v=-I3pogkW_QE&t=45s)
+   3. [Passing Conducted Emissions With a Buck Regulator](https://www.youtube.com/watch?v=dfBAtikYwY0)
+- [EMC and FCC Certifications in 5(ish) Minutes](https://www.youtube.com/watch?v=xG3xnx7FSa0)
 ## PCB Design Resources
 ### General Design
 - [The Hitchhiker's Guide to PCB Design](https://resources.ema-eda.com/i/1008704-the-hitchhikers-guide-to-pcb-design/)
