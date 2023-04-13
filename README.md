@@ -71,6 +71,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [Electrolytic Capacitor Application Guide](https://www.cde.com/resources/technical-papers/AEappGuide.pdf)
 - [How to select input capacitors for a buck converter](https://www.ti.com/lit/an/slyt670/slyt670.pdf)
 - [Ripple Current and its Effects on the Performance of Capacitors](https://passive-components.eu/ripple-current-and-its-effects-on-the-performance-of-capacitors/}
+- [What Influences Electrolytic Capacitor Lifespan?](https://resources.altium.com/p/electrolytic-capacitor-lifespan)
   
 ### Thermal Management
 - [Hot, Cold, and Broken: Thermal Design Techniques](https://www.edn.com/hot-cold-and-broken-thermal-design-techniques/)
