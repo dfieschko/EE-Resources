@@ -44,6 +44,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [/r/PrintedCircuitBoard Wiki](https://old.reddit.com/r/PrintedCircuitBoard/wiki/index)
 - [PCB Design Tutorial by David Jones](http://alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf)
 - [Rules and guidelines for drawing good schematics](https://electronics.stackexchange.com/questions/28251/rules-and-guidelines-for-drawing-good-schematics/28255#28255)
+- [Circuit Board Layout for Automotive Electronics](https://cecas.clemson.edu/cvel/Presentation_Slides/Automotive-Circuit-Board-Layout.pdf)
 - [The Art of Electronics](https://www.pearl-hifi.com/06_Lit_Archive/02_PEARL_Arch/Vol_16/Sec_51/4420_The_Art_of_Electronics.pdf)
 
 ### Electromagnetic Compatibility (EMC)
