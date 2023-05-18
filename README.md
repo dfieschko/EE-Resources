@@ -60,9 +60,6 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [What are the advantages of having two ground pours?](https://electronics.stackexchange.com/questions/41919/what-are-the-advantages-of-having-two-ground-pours/41923#41923)
 - [Should chassis ground be attached to digital ground?](https://electronics.stackexchange.com/questions/19561/should-chassis-ground-be-attached-to-digital-ground/19564#19564)
 - [Why proper bypassing and grounding matters](https://electronics.stackexchange.com/questions/15135/decoupling-caps-pcb-layout/15143#15143)
-  
-### Circuit Protection
-- [Automotive Line Transient Protection Circuit](https://www.ti.com/lit/an/snva717/snva717.pdf)
 
 ### Electrical Components
 - [NTC Thermistor Infodoc](http://denethor.wlu.ca/pc300/sensors/ntcnotes.pdf)
@@ -103,6 +100,9 @@ A list of resources I've found useful for electrical engineering education. Pret
 ### Hardware Testing & Validation:
 - [Using higher-powered RF immunity testing](https://www.edn.com/using-higher-powered-rf-immunity-testing/)
 
+### Automotive
+- [Load Dump Protection for 24V Automotive Applications](https://www.analog.com/en/technical-articles/loaddump-protection-for-24v-automotive-applications.html)
+- [Automotive Line Transient Protection Circuit](https://www.ti.com/lit/an/snva717/snva717.pdf)
 -----
 
 # Computer Science & Software Engineering
