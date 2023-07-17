@@ -181,8 +181,10 @@ A list of resources I've found useful for electrical engineering education. Pret
 ----
 
 ## Engineering Management
-- [Google: Use Structured Interviewing](https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/introduction/)
-- [Google: Train Your Interviewers](https://rework.withgoogle.com/guides/hiring-train-your-interviewers/steps/introduction/)
+- [Re:Work With Google](https://rework.withgoogle.com/)
+   - **Interviewing**
+      - [Use Structured Interviewing](https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/introduction/)
+      - [Train Your Interviewers](https://rework.withgoogle.com/guides/hiring-train-your-interviewers/steps/introduction/)
 
 ----
 ## Career & Life Advice
