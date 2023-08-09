@@ -101,6 +101,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [Using higher-powered RF immunity testing](https://www.edn.com/using-higher-powered-rf-immunity-testing/)
 
 ### Automotive
+- [awesome-automotive: A curated list of delightful and free automotive engineering resources](https://github.com/Marcin214/awesome-automotive)
 - [Load Dump Protection for 24V Automotive Applications](https://www.analog.com/en/technical-articles/loaddump-protection-for-24v-automotive-applications.html)
 - [Automotive Line Transient Protection Circuit](https://www.ti.com/lit/an/snva717/snva717.pdf)
 -----
