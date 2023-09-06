@@ -56,6 +56,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [Murata - Noise Suppression Basic Course](https://www.murata.com/en-us/products/emc/emifil/library/knowhow/basic)
 - [How to characterize a power transformer for EMI performance](https://www.edn.com/power-tips-119-how-to-characterize-a-power-transformer-for-emi-performance/)
 - [Using interleaved ground planes to improve noise filtering from isolated power supplies](https://www.edn.com/power-tips-118-using-interleaved-ground-planes-to-improve-noise-filtering-from-isolated-power-supplies/)
+- [Optimizing Power Distribution Networks for Flat Impedance](https://www.signalintegrityjournal.com/articles/1715-optimizing-power-distribution-networks-for-flat-impedance)
   
 ### Ground
 - [8 PCB Grounding Rules to Live By](https://www.autodesk.com/products/eagle/blog/8-pcb-grounding-rules/)
