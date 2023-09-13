@@ -172,7 +172,10 @@ A list of resources I've found useful for electrical engineering education. Pret
 - Approximating sines and cosines:
    - [Embedded Muse 456](http://www.ganssle.com/tem/tem456.html#article2) - see 'Math Approximations'
    - [Embedded Muse 457](http://www.ganssle.com/tem/tem457.html#article4) - see 'Sine and Cosine'
-   
+
+### Safety & Reliability
+- [Are We Shooting Ourselves in the Foot with Stack Overflow?](https://www.embeddedrelated.com/showarticle/1574.php) - How to make stack overflows a little more safe by moving the stack to the bottom of RAM.
+
 ### Cybersecurity
 - [Rollback Protection](https://developer.trustedfirmware.org/w/tf_m/design/trusted_boot/rollback_protection/)
 
