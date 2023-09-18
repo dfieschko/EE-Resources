@@ -58,6 +58,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 - [PCB Design Guidelines For Reduced EMI](https://www.ti.com/lit/an/szza009/szza009.pdf)
 - [Some of the Worst EMC Design Guidelines](https://learnemc.com/some-of-the-worst-emc-design-guidelines)
 - [Should You Worry About 90 Degree Bends in Circuit Board Traces?](https://www.signalintegrityjournal.com/articles/2104-should-you-worry-about-90-degree-bends-in-circuit-board-traces)
+- [Right-angle PCB Traces: It’s Time to Kill the Myths](https://www.nwengineeringllc.com/article/right-angle-pcb-traces-its-time-to-kill-the-myths.php)
 - [Murata - Noise Suppression Basic Course](https://www.murata.com/en-us/products/emc/emifil/library/knowhow/basic)
 - [How to characterize a power transformer for EMI performance](https://www.edn.com/power-tips-119-how-to-characterize-a-power-transformer-for-emi-performance/)
 - [Using interleaved ground planes to improve noise filtering from isolated power supplies](https://www.edn.com/power-tips-118-using-interleaved-ground-planes-to-improve-noise-filtering-from-isolated-power-supplies/)
