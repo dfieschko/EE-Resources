@@ -24,7 +24,7 @@ A list of resources I've found useful for electrical engineering education. Pret
 
 ----
 
-# Hardware Design
+# Hardware Engineering
 
 ## Videos
 - [Low Cost Reverse Polarity and Over Current Protection](https://www.youtube.com/watch?v=QZ0WXQWND-I)
@@ -40,7 +40,10 @@ A list of resources I've found useful for electrical engineering education. Pret
 ### Embedded Systems
 - [Extending the Resolution of a Peripheral DAC (With Op-Amps)](https://www.edn.com/extending-the-resolution-of-a-peripheral-dac/)
 
-## PCB Design Resources
+### Power Electronics
+- [Fundamentals of MOSFET and IGBT Gate Driver Circuits](https://www.ti.com/lit/ml/slua618a/slua618a.pdf?ts=1695721286345)
+
+## PCB Design
 ### General Design
 - [The Hitchhiker's Guide to PCB Design](https://resources.ema-eda.com/i/1008704-the-hitchhikers-guide-to-pcb-design/)
 - [Top 10 Design for Manufacturing Mistakes by Sam Sattel](https://www.autodesk.com/products/eagle/blog/top-10-manufacturing-mistakes/)
